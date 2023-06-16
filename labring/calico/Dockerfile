@@ -1,0 +1,1 @@
+FROM labring/calico:v3.24.1
