@@ -1,0 +1,1 @@
+FROM fyneio/fyne-cross-images:darwin
