@@ -1,1 +1,1 @@
-FROM apache/doris:latest
+FROM apache/doris:2.1.9-all
