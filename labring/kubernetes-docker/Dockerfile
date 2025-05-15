@@ -1,0 +1,1 @@
+FROM labring/kubernetes-docker:v1.24.15-4.2.2

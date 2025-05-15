@@ -1,0 +1,1 @@
+FROM labring/minio-operator:v4.4.16

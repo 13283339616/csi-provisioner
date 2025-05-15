@@ -1,0 +1,1 @@
+FROM teamide/teamide-server:latest

@@ -1,0 +1,1 @@
+FROM openeuler/openeuler:22.03-lts-sp2
