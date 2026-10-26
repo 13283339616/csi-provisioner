@@ -1,0 +1,1 @@
+FROM --platform=linux/amd64 apache/spark:v3.3.1
