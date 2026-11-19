@@ -1,0 +1,1 @@
+FROM --platform=linux/arm64 apache/spark-py:v3.3.1

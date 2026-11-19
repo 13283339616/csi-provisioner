@@ -1,0 +1,1 @@
+FROM --platform=linux/amd64 nginx:1.31.9

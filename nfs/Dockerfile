@@ -1,0 +1,1 @@
+FROM misterli/k8s.gcr.io_sig-storage_nfs-subdir-external-provisioner:v4.0.2

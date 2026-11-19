@@ -1,0 +1,1 @@
+FROM --platform=linux/arm64 nginx:1.31.9
